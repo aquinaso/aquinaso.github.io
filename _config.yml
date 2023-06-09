@@ -1,8 +1,8 @@
-title: Minimalistic
+title: 아퀴나조의 블로그
 logo: /assets/img/logo.jpg
-email: person@address.com
+email: aquinasogames@gmail.com
 description: Minimalistic is a theme powered by Jekyll.
-favicon: true
+favicon: false
 color-scheme: auto
 
 plugins:
