@@ -2,8 +2,10 @@ title: 지금, 여기
 logo: /assets/img/logo.jpg
 email: aquinasogames@gmail.com
 description: 
-favicon: True
+site:
+  favicon: https://aquinaso.github.io/favicon.ico
 color-scheme: auto
+
 
 plugins:
   - jekyll-sitemap
