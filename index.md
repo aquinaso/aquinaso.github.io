@@ -7,7 +7,9 @@ layout: default
 ```
 **BOLD**, _italic_, 아니면, ~~stroke with line~~
 ```
+
 ctrl + shift + v -> markdown preview
+
 VSCode에서는 markdown preview Enhanced 익스텐션을 설치해라.
 
 [깃허브로 바로가기](https://github.com/aquinaso)
@@ -15,12 +17,15 @@ VSCode에서는 markdown preview Enhanced 익스텐션을 설치해라.
 ```
 [표시할 텍스트](이동할 주소)
 ```
+
 기존 테마의 인덱스를 직접 번역할 예정
 
 There should be whitespace between paragraphs.
+
 문단 사이에는 공백이 있어야 한다.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 문단 사이에는 공백이 있어야 한다. README 또는 프로젝트와 관련된 정보가 담긴 파일을 포함해서 작성하는것을 추천한다.
 
 # Header 1
