@@ -5,7 +5,7 @@ description:
 color-scheme: auto
 
 site:
- - favicon: https://raw.githubusercontent.com/aquinaso/aquinaso.github.io/main/favicon.ico
+  favicon: https://raw.githubusercontent.com/aquinaso/aquinaso.github.io/main/favicon.ico
 
 plugins:
   - jekyll-sitemap
