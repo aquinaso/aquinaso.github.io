@@ -30,3 +30,5 @@ navigation:
         link: ./index.html#small-image
   - name: Another Page
     link: ./another-page.html
+  - name: TEST
+    link: ./test.html
