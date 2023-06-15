@@ -9,6 +9,9 @@ author: 아퀴나조
 github:
   owner_name: 아퀴나조
   owner_url: https://github.com/aquinaso
+  is_project_page: true
+
+hide_project_footer: false
 
 plugins:
   - jekyll-sitemap
