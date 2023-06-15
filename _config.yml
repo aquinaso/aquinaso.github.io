@@ -5,6 +5,10 @@ description:
 favicon: true
 color-scheme: auto
 
+github:
+  owner_name: 아퀴나조
+  owner_url: https://github.com/aquinaso
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
