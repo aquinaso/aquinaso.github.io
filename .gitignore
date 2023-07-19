@@ -1,3 +1,13 @@
-node_modules/
-.cache/
-public
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+.DS_Store
+public/
+
+.env
+.env.development
+.env.production
+.vscode
