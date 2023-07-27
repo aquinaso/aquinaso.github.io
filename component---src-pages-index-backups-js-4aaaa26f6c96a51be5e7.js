@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkTechBlogProject_T=self.webpackChunkTechBlogProject_T||[]).push([[664],{8235:function(t,e,l){l.r(e),l.d(e,{Head:function(){return u}});l(7294);var n=l(1883),o=l(917);const u=()=>(0,o.tZ)("title",null,"Home Page");e.default=()=>(0,o.tZ)("main",null,(0,o.tZ)("h1",null,"Welcome to my Gatsby site!"),(0,o.tZ)(n.Link,{to:"/about"},"About"),(0,o.tZ)("p",null,"I'm making this by following the Gatsby Tutorial."))}}]);
+//# sourceMappingURL=component---src-pages-index-backups-js-4aaaa26f6c96a51be5e7.js.map

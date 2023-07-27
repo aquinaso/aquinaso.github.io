@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkTechBlogProject_T=self.webpackChunkTechBlogProject_T||[]).push([[194],{5723:function(l,e,o){o.r(e);o(7294);var c=o(917);(0,c.tZ)("h1",null,"Hello World!");e.default=()=>(0,c.tZ)("h1",null,"Hello World!")}}]);
+//# sourceMappingURL=component---src-pages-on-development-option-1-js-24e6de68622a0756eefd.js.map
